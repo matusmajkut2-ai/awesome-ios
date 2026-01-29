@@ -9,7 +9,7 @@
 
 <p align="center">This project is supported by:
     <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=awesome-ios">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+    <img src="https://opensource.nyc3.#cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 <p>
 
